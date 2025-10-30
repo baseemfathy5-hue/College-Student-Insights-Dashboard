@@ -8,6 +8,9 @@ This dashboard provides a comprehensive view of college students’ performance 
 
 It helps universities and academic counselors make data-driven decisions to improve student engagement and performance.
 
+## 📷 Dashboard Preview
+![College Student Insights Dashboard](stu.png)
+
 📈 Key Insights
 
 CGPA & Communication Skills by Placement → Identify how skill levels impact job placements.
